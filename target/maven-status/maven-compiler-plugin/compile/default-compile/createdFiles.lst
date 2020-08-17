@@ -1,0 +1,12 @@
+mk/microservices/springboot/msbeerinventoryservice/web/mappers/BeerInventoryMapper.class
+mk/microservices/springboot/msbeerinventoryservice/web/controller/BeerInventoryController.class
+mk/microservices/springboot/msbeerinventoryservice/web/mappers/BeerInventoryMapperImpl.class
+mk/microservices/springboot/msbeerinventoryservice/bootstrap/BeerInventoryBootstrap.class
+mk/microservices/springboot/msbeerinventoryservice/web/mappers/DateMapper.class
+mk/microservices/springboot/msbeerinventoryservice/web/model/BeerInventoryDto$BeerInventoryDtoBuilder.class
+mk/microservices/springboot/msbeerinventoryservice/web/model/BeerInventoryDto.class
+mk/microservices/springboot/msbeerinventoryservice/domain/BeerInventory$BeerInventoryBuilder.class
+mk/microservices/springboot/msbeerinventoryservice/MsBeerInventoryServiceApplication.class
+mk/microservices/springboot/msbeerinventoryservice/domain/BeerInventory.class
+mk/microservices/springboot/msbeerinventoryservice/domain/BaseEntity.class
+mk/microservices/springboot/msbeerinventoryservice/repositories/BeerInventoryRepository.class
