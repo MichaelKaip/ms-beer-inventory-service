@@ -9,5 +9,4 @@ class MsBeerInventoryServiceApplicationTests {
     @Test
     void contextLoads() {
     }
-
 }

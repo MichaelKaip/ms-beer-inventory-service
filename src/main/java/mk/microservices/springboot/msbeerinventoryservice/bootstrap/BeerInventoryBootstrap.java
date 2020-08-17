@@ -25,11 +25,11 @@ public class BeerInventoryBootstrap implements CommandLineRunner {
     @Override
     public void run(String... args) throws Exception {
         if(beerInventoryRepository.count() == 0){
-            loadInitialInv();
+            loadInitialInventory();
         }
     }
 
-    private void loadInitialInv() {
+    private void loadInitialInventory() {
         beerInventoryRepository.save(BeerInventory
                 .builder()
                 .beerId(BEER_1_UUID)
