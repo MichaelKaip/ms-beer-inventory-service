@@ -1,5 +1,6 @@
 /Users/supportmicha/IdeaProjects/Microservices/Brewery/ms-beer-inventory-service/src/main/java/mk/microservices/springboot/msbeerinventoryservice/MsBeerInventoryServiceApplication.java
 /Users/supportmicha/IdeaProjects/Microservices/Brewery/ms-beer-inventory-service/src/main/java/mk/microservices/springboot/msbeerinventoryservice/web/model/BeerInventoryDto.java
+/Users/supportmicha/IdeaProjects/Microservices/Brewery/ms-beer-inventory-service/src/main/java/mk/microservices/springboot/msbeerinventoryservice/config/JmsConfig.java
 /Users/supportmicha/IdeaProjects/Microservices/Brewery/ms-beer-inventory-service/src/main/java/mk/microservices/springboot/msbeerinventoryservice/bootstrap/BeerInventoryBootstrap.java
 /Users/supportmicha/IdeaProjects/Microservices/Brewery/ms-beer-inventory-service/src/main/java/mk/microservices/springboot/msbeerinventoryservice/repositories/BeerInventoryRepository.java
 /Users/supportmicha/IdeaProjects/Microservices/Brewery/ms-beer-inventory-service/src/main/java/mk/microservices/springboot/msbeerinventoryservice/domain/BeerInventory.java

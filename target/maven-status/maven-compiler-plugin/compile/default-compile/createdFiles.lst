@@ -8,5 +8,6 @@ mk/microservices/springboot/msbeerinventoryservice/web/model/BeerInventoryDto.cl
 mk/microservices/springboot/msbeerinventoryservice/domain/BeerInventory$BeerInventoryBuilder.class
 mk/microservices/springboot/msbeerinventoryservice/MsBeerInventoryServiceApplication.class
 mk/microservices/springboot/msbeerinventoryservice/domain/BeerInventory.class
+mk/microservices/springboot/msbeerinventoryservice/config/JmsConfig.class
 mk/microservices/springboot/msbeerinventoryservice/domain/BaseEntity.class
 mk/microservices/springboot/msbeerinventoryservice/repositories/BeerInventoryRepository.class
